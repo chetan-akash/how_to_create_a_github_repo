@@ -1,0 +1,20 @@
+git push:
+
+1. git init:
+create a .git file in the directory
+2.git add .
+adds all the files to .git file
+3.git commit -m "Name of commit":
+commits all the files in the name of commit
+4.git remote add origin url:
+links the repository to git hub
+5.git push -u origin master:
+pushes all the files in the .git file to online repository
+
+git pull request:
+
+git pull is used to fetch and merge changes from the remote repository to the 
+local repository
+git pull is a combination of two commands, git fetch followed by git merge
+
+
